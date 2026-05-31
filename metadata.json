@@ -1,0 +1,8 @@
+{
+  "name": "Remix: KPN Air Hangat Dashboard",
+  "description": "Sistem otomasi pengelolaan data pinjaman, angsuran, simpanan wajib, dan cetak laporan per-sekolah untuk Koperasi Pegawai Negeri KPN Air Hangat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
